@@ -1,7 +1,5 @@
 ### Oi! Eu sou o Diego 👋
 ##
-- 🔭 Apaixonado por desenvolvimento Mobile
-- 🌱 Estou estudando Dart e Flutter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraisc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
